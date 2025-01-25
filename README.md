@@ -1,5 +1,5 @@
 # Calculator
-A Calculator developed in java
+A Calculator developed in java. All the functions of the Calculator is working.
 
 
 
